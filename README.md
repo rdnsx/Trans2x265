@@ -1,4 +1,4 @@
-# trans2hbx265
+# Trans2x265
 
 This is a bash script that transcodes video files in a given directory to the x265 (HEVC) format using the HandBrakeCLI tool. It supports a range of file extensions such as avi, mov, mkv, mpg, flv, webm, mp4, m4v, asf, ts, m2ts, mts, and vob. After transcoding, the original file is removed, and the new file is moved back to the source directory.
 
